@@ -1,0 +1,1 @@
+My expectation in CMSC 100 is that we will learn how to creatively develop a website, be familiar with MERN stack, and be knowledgeable about web programming.
